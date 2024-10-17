@@ -1,14 +1,23 @@
 # Gabriell Haines
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAgibio&theme=highcontrast&show_icons=true&hide=stars&locale=pt-br)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aagibio&layout=compact&theme=highcontrast&show_icons=true&locale=pt-br&card_width=468px&langs_count=10)
 
 ## Sobre mim
 Sou um desenvolvedor em crescimento, com experiência em várias tecnologias web e um forte interesse por redes de computadores. Estou sempre em busca de novos desafios para melhorar minhas habilidades e aprender novas ferramentas. Tenho formação técnica em Desenvolvimento e atualmente estou cursando Redes de Computadores.
 
-## Competências
-- **JavaScript**: Desenvolvimento de aplicações dinâmicas e interativas.
-- **Node.js**: Criação de servidores e APIs eficientes.
-- **SQL**: Modelagem e manipulação de bancos de dados relacionais.
-- **HTML & CSS**: Construção de interfaces web responsivas e acessíveis.
-
+## Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![Delphi](https://img.shields.io/badge/delphi-000?style=for-the-badge&logo=delphi)
 ## Formação
 - **Técnico em Desenvolvimento de Sistemas** (Concluído)
 - **Técnico em Redes de Computadores** (Em andamento)
