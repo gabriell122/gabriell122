@@ -1,6 +1,6 @@
 # Gabriell Haines
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAgibio&theme=highcontrast&show_icons=true&hide=stars&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriell122&theme=highcontrast&show_icons=true&hide=stars&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aagibio&layout=compact&theme=highcontrast&show_icons=true&locale=pt-br&card_width=468px&langs_count=10)
 
