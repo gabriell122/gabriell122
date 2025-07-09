@@ -25,8 +25,10 @@ Sou um desenvolvedor em crescimento, com experiência em várias tecnologias web
 ## Projetos
 Aqui estão alguns dos projetos que desenvolvi ou em que estou trabalhando:
 
-1. **[Projeto Sistema de Estoque](https://github.com/gabriell122/SistemaDeEstoque)** - Sistema para gestão de estoque utilizando HTML, CSS, NODE e SQL.
-2. **[Calculadora](https://gabriell122.github.io/Calculadora/)** - Calculadora em JS, HTML e CSS.
+1. **[7Life e Safeguard](https://github.com/grupo7zipado)** - TCC do Curso de Redes de Computadores.
+2. **[SA3](https://github.com/sistema-a3/SISTEMA-DE-AGENDAMENTO-DE-AMBIENTES-AUTOMATIZADO)** - TCC do Curso de Desenvolvimento de Sistemas.
+3. **[SGANIMAL](https://github.com/gabriell122/SGANIMAL)** - Sistema de gerenciamento de Animais.
+4. **[Calculadora](https://gabriell122.github.io/Calculadora/)** - Calculadora em JS, HTML e CSS.
 
 ## Contato
 - **E-mail**: s0mbr4h@gmail.com
