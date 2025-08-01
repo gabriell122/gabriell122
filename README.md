@@ -20,7 +20,7 @@ Sou um desenvolvedor em crescimento, com experiência em várias tecnologias web
 ![Delphi](https://img.shields.io/badge/delphi-000?style=for-the-badge&logo=delphi)
 ## Formação
 - **Técnico em Desenvolvimento de Sistemas** (Concluído)
-- **Técnico em Redes de Computadores** (Em andamento)
+- **Técnico em Redes de Computadores** (Concluído)
 
 ## Projetos
 Aqui estão alguns dos projetos que desenvolvi ou em que estou trabalhando:
